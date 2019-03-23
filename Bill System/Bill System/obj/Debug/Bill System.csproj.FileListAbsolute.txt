@@ -1,0 +1,14 @@
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\bin\Debug\Bill System.exe.config
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\bin\Debug\Bill System.exe
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\bin\Debug\Bill System.pdb
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\bin\Debug\Functions.dll
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\bin\Debug\Functions.pdb
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.csprojAssemblyReference.cache
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill_System.Login.resources
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill_System.Properties.Resources.resources
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.csproj.GenerateResource.cache
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.csproj.CoreCompileInputs.cache
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.csproj.CopyComplete
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.exe
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill System.pdb
+E:\4th Semester\OOSE Lab\Lab 5\Bill System\Bill System\obj\Debug\Bill_System.Purchase.resources
